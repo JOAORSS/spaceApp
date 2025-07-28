@@ -40,7 +40,7 @@ src/
 1. Clone o repositório:
 
    ```bash
-   git clone <url-do-repositorio>
+   git clone [<url-do-repositorio>](https://github.com/JOAORSS/spaceApp.git)
    ```
 
 2. Instale as dependências:
